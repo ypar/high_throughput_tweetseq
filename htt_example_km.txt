@@ -1,0 +1,88 @@
+index	ID	Posted at	Screen name	Text	date	time	nano
+0	789535477946785793	2016-10-21 18:35:01 +0000	thatdnaguy	#ASHG16 KM: Somatic genome editing seems poised to go forward. Much be cautious of somatic edits hitting germline cells.	2016-10-21	183501	+0000
+1	789535338796617728	2016-10-21 18:34:28 +0000	thatdnaguy	#ASHG16 KM: If it happened, it would likely happen in germ cells with IVF. Higher chance of 100% editing.	2016-10-21	183428	+0000
+2	789535298078121984	2016-10-21 18:34:18 +0000	claritas4kids	#ASHG16 KM: if target embyros, CRISPR-Cas9 still active, could generate mosaics	2016-10-21	183418	+0000
+3	789535177991196672	2016-10-21 18:33:49 +0000	thatdnaguy	#ASHG16 KM: How wld you do it? 1) Embryo [ mosaic ], 2) oocytes, 3) sperm	2016-10-21	183349	+0000
+4	789535144654667776	2016-10-21 18:33:41 +0000	claritas4kids	#ASHG16 KM: can have unintended consequences when don't have full understanding of gene function	2016-10-21	183341	+0000
+5	789534897694093312	2016-10-21 18:32:43 +0000	claritas4kids	#ASHG16 KM: standard pre-implantation genetic diagnosis relieves the need for genome editing in most but not all cases	2016-10-21	183243	+0000
+6	789534836419592192	2016-10-21 18:32:28 +0000	thatdnaguy	#ASHG16 KM: Also in mutations / variants that cause embryonic lethality	2016-10-21	183228	+0000
+7	789534725220204544	2016-10-21 18:32:01 +0000	thatdnaguy	#ASHG16 KM: Is preimplantation diagnosis enough? Not always. Sometimes 100% chance of trait.	2016-10-21	183201	+0000
+8	789534702948331521	2016-10-21 18:31:56 +0000	robbins_sm	KM: Who do you treat when the degree of protection depends on the length of time you are exposed to the altered allele? #ASHG16	2016-10-21	183156	+0000
+9	789534660539719680	2016-10-21 18:31:46 +0000	girlscientist	Nice, thoughtful talk on genome editing and heart disease by Kiran Musunuru, and thanks to him for joining the program cmte! #ASHG16	2016-10-21	183146	+0000
+10	789534639618686977	2016-10-21 18:31:41 +0000	thatdnaguy	#ASHG16 KM: Potential clinical uses - 1) treat severe genetic disorder [IEM], 2) infertility treatment	2016-10-21	183141	+0000
+11	789534579690385408	2016-10-21 18:31:27 +0000	claritas4kids	#ASHG16 KM: groups have shown CRISPR-Cas9 works in human embryos but off target effects happen	2016-10-21	183127	+0000
+12	789534456788975616	2016-10-21 18:30:57 +0000	thatdnaguy	#ASHG16 KM: Human germline editing - 2 cases from China working on abnormal embryos. Detectable off target effects.	2016-10-21	183057	+0000
+13	789534327574978560	2016-10-21 18:30:27 +0000	claritas4kids	#ASHG16 KM: up to 20% HDR repair improved survival but did not cure newborn mice, if did in adults, NHEJ caused worse disease	2016-10-21	183027	+0000
+14	789534264392048640	2016-10-21 18:30:12 +0000	thatdnaguy	#ASHG16 KM: The adults made the disease worse. Probably completely disrupted gene. Made the mouse die sooner.	2016-10-21	183012	+0000
+15	789534150164410369	2016-10-21 18:29:44 +0000	thatdnaguy	#ASHG16 KM: Ornithin transcaramylase (OTC). Wanted to repair in mouse model of OTC. Low repair in adults. 20% in newborn.	2016-10-21	182944	+0000
+16	789534091393708033	2016-10-21 18:29:30 +0000	markgenome	KM - if get PCSK9 editing therapy, who gets it? When should it be delivered? How should it be delivered? Translation to clinic hard! #ASHG16	2016-10-21	182930	+0000
+17	789534060984930304	2016-10-21 18:29:23 +0000	claritas4kids	#ASHG16 KM: OTC deficiency, 50% mortality in newborns, X linked recessive	2016-10-21	182923	+0000
+18	789533930122776576	2016-10-21 18:28:52 +0000	thatdnaguy	#ASHG16 KM: [ Editing an embryo would lead to future transmission ]	2016-10-21	182852	+0000
+19	789533869276037120	2016-10-21 18:28:37 +0000	claritas4kids	#ASHG16 KM: when and who should be treated? adult or child? require strong family history?	2016-10-21	182837	+0000
+20	789533670482771968	2016-10-21 18:27:50 +0000	thatdnaguy	#ASHG16 KM: Who to treat??? Adutls with risk? All adults? Kid with family history? In utero w fam history? in EMBRYO with fam history?	2016-10-21	182750	+0000
+21	789533604246200320	2016-10-21 18:27:34 +0000	claritas4kids	#ASHG16 KM: see no evidence of off-target effects	2016-10-21	182734	+0000
+22	789533491075645444	2016-10-21 18:27:07 +0000	thatdnaguy	#ASHG16 KM: What about off target effects? Look at *predicted* similar sites find little in alternative sites. Indistinguishable from cont.	2016-10-21	182707	+0000
+23	789533387035815936	2016-10-21 18:26:42 +0000	sgpombe	Contemplating a future where #GenomeEditing is comparable to a vaccination? @kiranmusunuru @penn #ASHG16 https://t.co/p6NtYQvVre	2016-10-21	182642	+0000
+24	789533336989347840	2016-10-21 18:26:31 +0000	girlscientist	K Musunuru: targeting human PCSK9 in liver-humanized mice. Allows for gauging efficacy of human changes, but not in humans. #ASHG16	2016-10-21	182631	+0000
+25	789533333977956352	2016-10-21 18:26:30 +0000	thatdnaguy	#ASHG16 KM: Do you hurt the hepatocytes doing this? albumin looks stable.	2016-10-21	182630	+0000
+26	789533306131914752	2016-10-21 18:26:23 +0000	claritas4kids	#ASHG16 KM: why not do it to people now? Both illegal and of uncertain safety	2016-10-21	182623	+0000
+27	789533192864817152	2016-10-21 18:25:56 +0000	thatdnaguy	#ASHG16 KM: Does it work in human cells - used a liver humanized mouse.  PCSK9 KO worked [not as well as mouse, but esp bc of model]	2016-10-21	182556	+0000
+28	789533168734920704	2016-10-21 18:25:50 +0000	claritas4kids	#ASHG16 KM: have made humanized liver mice, try there as well, PCSK9 levels go down	2016-10-21	182550	+0000
+29	789532805000794112	2016-10-21 18:24:24 +0000	thatdnaguy	#ASHG16 KM: Single administration caused permanent ( or at least long lived ) protection of cardiovascular disease. Like vaccine.	2016-10-21	182424	+0000
+30	789532753712648193	2016-10-21 18:24:11 +0000	markgenome	KM - Therapeutic applications of genome editing - disruption of PCSK9 leads to < cholesterol in mice w somatic cell editing? Yes.  #ASHG16	2016-10-21	182411	+0000
+31	789532726529445888	2016-10-21 18:24:05 +0000	girlscientist	"K Musunuru: what about genome editing to introduce ""lucky"" PCSK9 protein into blood of those who didn't win that genetic lottery? #ASHG16"	2016-10-21	182405	+0000
+32	789532720971911168	2016-10-21 18:24:04 +0000	claritas4kids	#ASHG16 KM: targeted mouse PCSK9 for somatic gene editing in liver, PCSK9 levels in blood down 90%, 40% reduction in LDL-C	2016-10-21	182404	+0000
+33	789532657902313472	2016-10-21 18:23:49 +0000	thatdnaguy	#ASHG16 KM: - went to fast, no reduced triglycerides. specific to cholesterol	2016-10-21	182349	+0000
+34	789532564369309696	2016-10-21 18:23:26 +0000	thatdnaguy	#ASHG16 KM: Knocked it out. Reduced triglycerides. Reduced total cholesterol.	2016-10-21	182326	+0000
+35	789532498459930624	2016-10-21 18:23:11 +0000	sgpombe	@kiranmusunuru @penn shares #GenomeEditing successes for cardiomyopathies & regln of triglycerides  #ASHG16 https://t.co/DCWFXXXWUW	2016-10-21	182311	+0000
+36	789532466310623232	2016-10-21 18:23:03 +0000	robbins_sm	K Musunuru: Therapeutic uses of CRISPR-Cas9 - disrupt, repair, or insert #ASHG16 #GenomicsFuture	2016-10-21	182303	+0000
+37	789532436703109120	2016-10-21 18:22:56 +0000	thatdnaguy	#ASHG16 KM: Could you used genome editing to KO PCSK9? Proof of principle in mouse. Viral delivery to lier.	2016-10-21	182256	+0000
+38	789532343300034560	2016-10-21 18:22:34 +0000	claritas4kids	#ASHG16 KM: PCSK9 mutations lead to lower LDL-C, MI risk	2016-10-21	182234	+0000
+39	789532266703708160	2016-10-21 18:22:15 +0000	thatdnaguy	#ASHG16 KM: PCSK9 loss of function. 3% of population have LoF mutations. Decreases risk of lower MI risk.	2016-10-21	182215	+0000
+40	789532077066551296	2016-10-21 18:21:30 +0000	claritas4kids	#ASHG16 KM: therapeutic approaches 1-disrupt disease-causing gene, 2-repair disease mutations, 3-insert disease fixing gene	2016-10-21	182130	+0000
+41	789532044934152192	2016-10-21 18:21:22 +0000	thatdnaguy	#ASHG16 KM: [ slide picture, drink ]	2016-10-21	182122	+0000
+42	789531952529440768	2016-10-21 18:21:00 +0000	thatdnaguy	#ASHG16 KM: Clinical uses of genome editing. 1) Disrupt, 2) Repair, 3) Insert genes.	2016-10-21	182100	+0000
+43	789531829749415936	2016-10-21 18:20:31 +0000	claritas4kids	#ASHG16 KM: undifferentiated cells have same PDE2A gene expression, when induced, R173W has big effect, no effect of K210del	2016-10-21	182031	+0000
+44	789531778025414656	2016-10-21 18:20:19 +0000	thatdnaguy	#ASHG16 KM: Effects of some of the mutants specific cell type. Same disease have diff pathogenetic mechanisms.	2016-10-21	182019	+0000
+45	789531595711459328	2016-10-21 18:19:35 +0000	blueyedgenes	Np: K Musunuru at #ASHG16 showing how #CRISPR cuts experiment times by 1/3 - 1/4	2016-10-21	181935	+0000
+46	789531501884866561	2016-10-21 18:19:13 +0000	girlscientist	"#ASHG16 K Musunuru invites ""fellow science nerds"" to visit poster 600 for more on their CRISPR work in cardiomyopathy models."	2016-10-21	181913	+0000
+47	789531449493860352	2016-10-21 18:19:01 +0000	claritas4kids	#ASHG16 KM: impact of different variants not well understood, some conflicting results, maed K210del and R173W	2016-10-21	181901	+0000
+48	789531330308476928	2016-10-21 18:18:32 +0000	thatdnaguy	#ASHG16 KM: Details @ poster 600 3-4pm this afternoon	2016-10-21	181832	+0000
+49	789531256761483264	2016-10-21 18:18:15 +0000	thatdnaguy	#ASHG16 KM: TNNT2 troponin T mutations and cardiomyopatheis. Use Cas9 for multiplex of variants.	2016-10-21	181815	+0000
+50	789531159029948417	2016-10-21 18:17:51 +0000	claritas4kids	#ASHG16 KM: TNNT2 associated with cardiomyopathies of different types, how do different mutations cause different diseases?	2016-10-21	181751	+0000
+51	789530942369107968	2016-10-21 18:17:00 +0000	claritas4kids	#ASHG16 KM: put gene between loxP sites to allow recombination, able to breed desired mice with Cre expressing mice, get desired phenotype	2016-10-21	181700	+0000
+52	789530674831110145	2016-10-21 18:15:56 +0000	claritas4kids	#ASHG16 KM: KLF14 associated with type 2 diabetes, what is it doing? Make a knockout only in adipocytes	2016-10-21	181556	+0000
+53	789530553468981248	2016-10-21 18:15:27 +0000	thatdnaguy	#ASHG16 KM: Also adipose specific eQTL.	2016-10-21	181527	+0000
+54	789530481066901504	2016-10-21 18:15:10 +0000	thatdnaguy	#ASHG16 KM: Example - Klf14. SNP in GWAS assoc with T2Diabetes, HDL, etc.	2016-10-21	181510	+0000
+55	789530468504920064	2016-10-21 18:15:07 +0000	claritas4kids	#ASHG16 KM: could have done same earlier but took a lot less time this way	2016-10-21	181507	+0000
+56	789530398598377472	2016-10-21 18:14:50 +0000	claritas4kids	#ASHG16 KM: got both desired change as well as frameshift knockouts, both had higher TG, shower gene is causal and variant is loss function	2016-10-21	181450	+0000
+57	789530289856974848	2016-10-21 18:14:24 +0000	thatdnaguy	#ASHG16 KM: Homozygous KI and the KO mice both have increased triglyceride levels. Hets look additive.	2016-10-21	181424	+0000
+58	789530182252101632	2016-10-21 18:13:58 +0000	thatdnaguy	#ASHG16 KM: NHEJ deletion in exon 9 and KI mice same time. (unpublished)	2016-10-21	181358	+0000
+59	789530142422904833	2016-10-21 18:13:49 +0000	claritas4kids	#ASHG16 KM: A1CF G390S variant increased triglycerides in humans, is this causative? Is it gain or loss of function?	2016-10-21	181349	+0000
+60	789530101163495424	2016-10-21 18:13:39 +0000	markgenome	KM - providing exc summary re process/features/limitations of genome editing b4 discussing implications, incl examples from his lab #ASHG16	2016-10-21	181339	+0000
+61	789530018170957824	2016-10-21 18:13:19 +0000	thatdnaguy	#ASHG16 KM: Example A1cf. Came out of a assoc with inc triglycerides. p.Gly390Ser. How does it work?	2016-10-21	181319	+0000
+62	789529779603120128	2016-10-21 18:12:22 +0000	thatdnaguy	#ASHG16 KM: Get a mix of mice with KI and deletions b/c the failed HDR cells can still have cutting	2016-10-21	181222	+0000
+63	789529544193667072	2016-10-21 18:11:26 +0000	thatdnaguy	#ASHG16 KM: Knock in (KI) are obviously harder than the in vivo KO	2016-10-21	181126	+0000
+64	789529451797344256	2016-10-21 18:11:04 +0000	thatdnaguy	#ASHG16 KM: 3 weeks to KO mice in some cases	2016-10-21	181104	+0000
+65	789529385724502016	2016-10-21 18:10:48 +0000	thatdnaguy	#ASHG16 KM: KO mouse much easier [ Used to be ~$20k and a long time. Now short time and 10-fold approx less cost ]	2016-10-21	181048	+0000
+66	789529346654384128	2016-10-21 18:10:39 +0000	claritas4kids	#ASHG16 KM: can also generate knockout animals using NHEJ to disrupt gene	2016-10-21	181039	+0000
+67	789529277926608896	2016-10-21 18:10:23 +0000	thatdnaguy	#ASHG16 KM: Can use in vivo. [ HUGELY important to increase eff of model organisms editing ]	2016-10-21	181023	+0000
+68	789529150113579008	2016-10-21 18:09:52 +0000	thatdnaguy	#ASHG16 KM: Can use iPSC cells as the type of cell to edit, and then differentiate them into line of interest [ or at least close ]	2016-10-21	180952	+0000
+69	789529114147303424	2016-10-21 18:09:44 +0000	claritas4kids	#ASHG16 KM: applications: generated altered cells with CRISPR-Cas9, compare phenotypes, can do with iPSC cells also	2016-10-21	180944	+0000
+70	789529002922901504	2016-10-21 18:09:17 +0000	thatdnaguy	#ASHG16 KM: Can do whole panels of cells by gRNA for genome-wide screening.	2016-10-21	180917	+0000
+71	789528837524688896	2016-10-21 18:08:38 +0000	thatdnaguy	#ASHG16 KM: Can use multiple gRNA to edit 2 sites [ or use a dual nickase to reduce off-target effects ]	2016-10-21	180838	+0000
+72	789528711565602816	2016-10-21 18:08:08 +0000	thatdnaguy	#ASHG16 KM: gRNA makes it very easy to use [ just make new gRNA ]	2016-10-21	180808	+0000
+73	789528675242741761	2016-10-21 18:07:59 +0000	claritas4kids	#ASHG16 KM: CRISPR-Cas9 from bacteria can be used in mammalian cells, 2 components, Cas9 protein can cut DNA, guide RNA finds homology	2016-10-21	180759	+0000
+74	789528525200093184	2016-10-21 18:07:23 +0000	thatdnaguy	#ASHG16 KM: Most pop method probably CRISPR / Cas9. Simplest version a 2 component system. Protein + gRNA	2016-10-21	180723	+0000
+75	789528341430743040	2016-10-21 18:06:39 +0000	claritas4kids	#ASHG16 KM: Homology directed repair (HDR) not as error prone, can fool cell to using custom made template, only works in proliferating cell	2016-10-21	180639	+0000
+76	789528156684312577	2016-10-21 18:05:55 +0000	thatdnaguy	#ASHG16 KM: HDR works in proliferating cells, lower efficiency than NHEJ [ though there are methods to improve over baseline ]	2016-10-21	180555	+0000
+77	789528024282652672	2016-10-21 18:05:24 +0000	markgenome	Kiran Musunuru from UPenn on the sci and clinical implications of #genome editing in treating disease. Starts w DNA repair primer #ASHG16	2016-10-21	180524	+0000
+78	789528018498809860	2016-10-21 18:05:22 +0000	thatdnaguy	#ASHG16 KM: NHEJ is the default, [ messy, and largely unpredictable for final result. ]	2016-10-21	180522	+0000
+79	789527957387698176	2016-10-21 18:05:08 +0000	claritas4kids	#ASHG16 KM: Non-homologous end joining (NHEJ) -  default pathway, error prone	2016-10-21	180508	+0000
+80	789527917109927936	2016-10-21 18:04:58 +0000	thatdnaguy	#ASHG16 KM: Allows knockin of specific  alleles as well	2016-10-21	180458	+0000
+81	789527825334341632	2016-10-21 18:04:36 +0000	thatdnaguy	#ASHG16 KM: Two methods - NHEJ for indels and HDR [ can be used for knockout as well w replacement cassettes for selection ]	2016-10-21	180436	+0000
+82	789527793717481472	2016-10-21 18:04:29 +0000	claritas4kids	#ASHG16 KM: genome editing: facilitate knock out or knock in of mutations by introducing a double strand break, can be fixed by NHEJ or HDR	2016-10-21	180429	+0000
+83	789527594815385601	2016-10-21 18:03:41 +0000	thatdnaguy	#ASHG16 KM: Genome Editing (GE) allows for targeted double-strand breaks, allowing knockin and knockout in vitro and in vivo	2016-10-21	180341	+0000
+84	789527442163499009	2016-10-21 18:03:05 +0000	claritas4kids	#ASHG16 session on genome editing started off with Kiran Musunuru from Univ Penn to provide a general overview	2016-10-21	180305	+0000
+85	789527376346619904	2016-10-21 18:02:49 +0000	thatdnaguy	#ASHG16 KM: [ Mix of research scientists and clinicians ]	2016-10-21	180249	+0000
+86	789527229319503872	2016-10-21 18:02:14 +0000	thatdnaguy	#ASHG16 KM: Kiran Musunuru on genome editing for understanding and treatment of diseases [ overview ]	2016-10-21	180214	+0000

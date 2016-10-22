@@ -1,0 +1,86 @@
+ID	Posted at	Screen name	Text	date	time	nano
+789625197359882240	2016-10-22 00:31:32 +0000	DrGokceToruner	XJ: wow residual data in steroids. Brillant use of Clinical test data for Research. #ASHG16	2016-10-22	3132	+0000
+789625191710109696	2016-10-22 00:31:30 +0000	avery_ayers	XJ next steps include extending analysis to entire 1.5 million (!!!) samples #ASHG16	2016-10-22	3130	+0000
+789625153453981700	2016-10-22 00:31:21 +0000	jgreid	XJ: Many, many more things to do with this data set -- so many things to do! Looking for collaboration. #ASHG16	2016-10-22	3121	+0000
+789625151788838914	2016-10-22 00:31:21 +0000	thatdnaguy	#ASHG16 XJ: They're very happy to collaborate b/c there is a mountain of data.	2016-10-22	3121	+0000
+789625078992539648	2016-10-22 00:31:04 +0000	thatdnaguy	#ASHG16 XJ: Next step - up analysis to 1.5M samples. Assoc analysis with known phenos. Find indel / cnv. MHC. nonHuman [ EBV, CMV etc ]	2016-10-22	3104	+0000
+789624889477042176	2016-10-22 00:30:18 +0000	thatdnaguy	#ASHG16 XJ: 1PB of data is hard to store, let along process and intermediate files.	2016-10-22	3018	+0000
+789624847311613953	2016-10-22 00:30:08 +0000	michaelhoffman	XJ: Largest scale Chinese population dataset to date [probably largest human population dataset full stop, right?] #ASHG16	2016-10-22	3008	+0000
+789624828756103168	2016-10-22 00:30:04 +0000	thatdnaguy	#ASHG16 XJ: Management of incidental findings is very important. Patients have to agree for research up front for other uses.	2016-10-22	3004	+0000
+789624652486307840	2016-10-22 00:29:22 +0000	thatdnaguy	#ASHG16 XJ: Incidental finding - gastric cancer. [ Wonder about how that will work in future. Return or not? ]	2016-10-22	2922	+0000
+789624619842011137	2016-10-22 00:29:14 +0000	jgreid	XJ: Incidental findings include tumor signals e.g. dysgermonia #ASHG16	2016-10-22	2914	+0000
+789624548152840192	2016-10-22 00:28:57 +0000	busseykj	XJ: Using the data to begin to explore geographic and ethnic distributions in Chinese populations. #ASHG16	2016-10-22	2857	+0000
+789624539470716928	2016-10-22 00:28:55 +0000	anderson_carl	Xin Jin's 0.1X WGS study of 140k Chinese makes our 2-6X WGS study of IBD seem overtly indulgent. 93% of genome covered by 1 read. #ASHG16	2016-10-22	2855	+0000
+789624454020210690	2016-10-22 00:28:35 +0000	thatdnaguy	#ASHG16 XJ: Down to depth of 0.1X about to get about 0.6 accuracy of imputation. [ Not bad ]	2016-10-22	2835	+0000
+789624332003729409	2016-10-22 00:28:05 +0000	jgreid	XJ: High-quality phenotypes collected as part of NIPT test has potential for imputation and association studies #ASHG16	2016-10-22	2805	+0000
+789624295685226496	2016-10-22 00:27:57 +0000	thatdnaguy	#ASHG16 XJ: [ One take home message - BGI has a lot of computer. A. Lot. ]	2016-10-22	2757	+0000
+789624237426286592	2016-10-22 00:27:43 +0000	shramdas	XJ: High quality phenotypes recorded with samples: delivery weeks, weight etc. What a resource! #ashg16	2016-10-22	2743	+0000
+789624176143368193	2016-10-22 00:27:28 +0000	thatdnaguy	#ASHG16 XJ: [ I'd be very interested in longitudinal sampling to see persistance of fetal cfDNA in mother ]	2016-10-22	2728	+0000
+789624071147356160	2016-10-22 00:27:03 +0000	jgreid	XJ: Showing very cool Chinese ancestry breakdown by ethnic group #ASHG16	2016-10-22	2703	+0000
+789623994542616576	2016-10-22 00:26:45 +0000	thatdnaguy	#ASHG16 XJ: [ Nice visualization of ethnicity related population substructure ]	2016-10-22	2645	+0000
+789623800228933632	2016-10-22 00:25:59 +0000	thatdnaguy	#ASHG16 XJ: Unique ethnic group opp to characterize differences. Have self-reported samples. Can help define intergroup relatedness.	2016-10-22	2559	+0000
+789623771099312128	2016-10-22 00:25:52 +0000	shantaolee	XJ: population stratification for Han Chinese:  Guangdong Guangxi and Hainan show very different genetic background #ASHG16	2016-10-22	2552	+0000
+789623723649359872	2016-10-22 00:25:40 +0000	jgreid	XJ: Population decomposition shows clustering by North/South China geography, South shows more sporadic distribution #ASHG16	2016-10-22	2540	+0000
+789623662903193600	2016-10-22 00:25:26 +0000	thatdnaguy	#ASHG16 XJ: Diff population groups in different provinces	2016-10-22	2526	+0000
+789623595160903680	2016-10-22 00:25:10 +0000	shramdas	"XJ: Population stratification of Han chinese from north to south gradient
+#ashg16"	2016-10-22	2510	+0000
+789623577750351873	2016-10-22 00:25:06 +0000	busseykj	XJ: Because of low coverage, accurate genotyping at individual level is not feasible. Can get allele frequencies when is aggregated. #ASHG16	2016-10-22	2506	+0000
+789623497085419520	2016-10-22 00:24:46 +0000	GeneticsGSA	Jin: Population stratification of Han Chinese follows a north-to-south gradient. #ASHG16	2016-10-22	2446	+0000
+789623450633506816	2016-10-22 00:24:35 +0000	michaelhoffman	XJ: Population stratification of Han Chinese following a north to south gradient [OK this is pretty cool] #ASHG16	2016-10-22	2435	+0000
+789623423592837122	2016-10-22 00:24:29 +0000	Magda_Skipper	XJ - Single nucleotide level molecular epidemiology in China #ASHG16	2016-10-22	2429	+0000
+789623386871832576	2016-10-22 00:24:20 +0000	thatdnaguy	#ASHG16 XJ: Novel genetic distance counting for every pair of individuals. Use multidimensional scaling [ On Hadoop presumably ]	2016-10-22	2420	+0000
+789623369905963008	2016-10-22 00:24:16 +0000	jgreid	XJ: Novel method for genetic distance calculation using pairwise distance matrix #ASHG16	2016-10-22	2416	+0000
+789623228876533760	2016-10-22 00:23:42 +0000	thatdnaguy	#ASHG16 XJ: May be useful to show migration paths through China [ That's really interesting possibility. What's consent look like? ]	2016-10-22	2342	+0000
+789623111452852229	2016-10-22 00:23:14 +0000	thatdnaguy	#ASHG16 XJ: May help in dividing resources into high risk regions.	2016-10-22	2314	+0000
+789623025855524864	2016-10-22 00:22:54 +0000	thatdnaguy	#ASHG16 XJ: Screen for hearing loss and Beta thal from NIPT directly. Check frequency spectrum for known variants. Aggregate by province.	2016-10-22	2254	+0000
+789622994419146752	2016-10-22 00:22:47 +0000	shantaolee	XJ: Much higher DAF in pathogenic mutations on BRAC2 in Chinese population compared to CEU #ASHG16	2016-10-22	2247	+0000
+789622946696429570	2016-10-22 00:22:35 +0000	jgreid	XJ: Mutation frequency of disease-relevant variations shows BRCA2 mutations more frequent in Chinese than Euro ancestry #ASHG16	2016-10-22	2235	+0000
+789622868975824896	2016-10-22 00:22:17 +0000	michaelhoffman	XJ shows big difference in mutation frequency between CEU and Chinese millionome #ASHG16	2016-10-22	2217	+0000
+789622832846299140	2016-10-22 00:22:08 +0000	thatdnaguy	#ASHG16 XJ: Found about 10% MAF for some BRCA variants just in the low pass NIPT sequencing. Population screening?	2016-10-22	2208	+0000
+789622697034674176	2016-10-22 00:21:36 +0000	thatdnaguy	#ASHG16 XJ: Prelim analysis from 96k individuals.	2016-10-22	2136	+0000
+789622580940603392	2016-10-22 00:21:08 +0000	thatdnaguy	#ASHG16 XJ: [ That looks like ggplot. Suggest theme_bw and text size adjust in the script ]	2016-10-22	2108	+0000
+789622517254197248	2016-10-22 00:20:53 +0000	jgreid	XJ showing a slide with equations that tells me that I need new glasses -- sorry tweeps #ASHG16	2016-10-22	2053	+0000
+789622505501622272	2016-10-22 00:20:50 +0000	shantaolee	XJ: Ultra-shallow depth...93% region covered by one single end read #ASHG16	2016-10-22	2050	+0000
+789622449742774273	2016-10-22 00:20:37 +0000	thatdnaguy	#ASHG16 XJ: [ Lots of math about genotyping allele freq estimation. I see a liklihood ratio test at the end ]	2016-10-22	2037	+0000
+789622445015568384	2016-10-22 00:20:36 +0000	busseykj	XJ: 93% of genome covered by only one read. #ASHG16	2016-10-22	2036	+0000
+789622444319309824	2016-10-22 00:20:35 +0000	michaelhoffman	XJ has data analysis that involves a lot of equations #ASHG16	2016-10-22	2035	+0000
+789622297040674816	2016-10-22 00:20:00 +0000	jgreid	XJ: 93% of covered regions only covered by 1 read #ASHG16	2016-10-22	2000	+0000
+789622235560542208	2016-10-22 00:19:46 +0000	thatdnaguy	#ASHG16 XJ: At 0.1X about 10% have 1 read	2016-10-22	1946	+0000
+789622154090479616	2016-10-22 00:19:26 +0000	jgreid	XJ: Current analysis focuses on autosome and chrX #ASHG16	2016-10-22	1926	+0000
+789621987681460225	2016-10-22 00:18:46 +0000	thatdnaguy	#ASHG16 XJ: [ did I read that wrong? Which chrom is that??? ]	2016-10-22	1846	+0000
+789621877417381888	2016-10-22 00:18:20 +0000	thatdnaguy	#ASHG16 XJ: coverage by chromosome - Mitochondrial genome VERY different distribution from nuclear chromosomes.	2016-10-22	1820	+0000
+789621835444920320	2016-10-22 00:18:10 +0000	jgreid	XJ: Showing coverage across the genome, high-repeat regions have relatively low coverage #ASHG16	2016-10-22	1810	+0000
+789621763839713280	2016-10-22 00:17:53 +0000	michaelhoffman	XJ: Not much sequence coverage in centromeres or telomeres [shocking] #ASHG16	2016-10-22	1753	+0000
+789621701415809024	2016-10-22 00:17:38 +0000	yluo86	Jin: low means LOW! low-pass WGS (5-8 million reads, 0.06-0.1x) #ashg16	2016-10-22	1738	+0000
+789621619450839040	2016-10-22 00:17:19 +0000	thatdnaguy	#ASHG16 XJ: [ should I switch to CRAM? We still have BAMs... ]	2016-10-22	1719	+0000
+789621590786973696	2016-10-22 00:17:12 +0000	jgreid	XJ: Using Hadoop cluster to accelerate analysis #ASHG16	2016-10-22	1712	+0000
+789621510868729856	2016-10-22 00:16:53 +0000	thatdnaguy	#ASHG16 XJ: FASTQ - FaeaFastqFilt - GaeaBWA - GaeaDuplicateMaker - GaeaBq - GaeaBamQC - HadoopBamSort - CRAM	2016-10-22	1653	+0000
+789621390542594048	2016-10-22 00:16:24 +0000	jgreid	XJ: Pilot study 141k NIFTY samples throughout China, broad geographic distribution of collection - covers whole of China. #ASHG16	2016-10-22	1624	+0000
+789621282849497088	2016-10-22 00:15:58 +0000	blueyedgenes	"X. Jin presenting on Chinese Millionome Project, demonstrating there is no word that cannot be ""-ome'd"" #ASHG16"	2016-10-22	1558	+0000
+789621278873362432	2016-10-22 00:15:57 +0000	thatdnaguy	#ASHG16 XJ: Pilot of 141k NIPT samples thorughout China.	2016-10-22	1557	+0000
+789621274964209665	2016-10-22 00:15:57 +0000	shramdas	XJ: Fetal DNA 5-15% pf sample in maternal cell-free DNA; DNA fragment size 150-200bp #ashg16	2016-10-22	1557	+0000
+789621243175501825	2016-10-22 00:15:49 +0000	GeneticsGSA	Jin: Collected WGS data from NIPT samples. #ASHG16	2016-10-22	1549	+0000
+789621190063251457	2016-10-22 00:15:36 +0000	thatdnaguy	#ASHG16 XJ: Fragments are 150bp - 200 bp. 5-8M reads for 0.6x - 0.1x. Read length 35bp or 49bp.	2016-10-22	1536	+0000
+789621111076052992	2016-10-22 00:15:17 +0000	jgreid	XJ: https://t.co/PpC06QIWE6 -- screening for aneuploidies via CNVs #ASHG16	2016-10-22	1517	+0000
+789621077970268160	2016-10-22 00:15:10 +0000	GeneticsGSA	Jin: Three major methodologies for non-invasive prenatal testing (NIPT). 3M/5M total wordlwide NIPT done in China. #ASHG16	2016-10-22	1510	+0000
+789621040775360512	2016-10-22 00:15:01 +0000	thatdnaguy	#ASHG16 XJ: for WGS NIPT use low-depth sequencing. NIFTY test https://t.co/oRiJST7e8l Mixed samples 5-15% fetal fraction.	2016-10-22	1501	+0000
+789620908684173312	2016-10-22 00:14:29 +0000	jgreid	XJ: NIPT methods - WGS, targeted loci, SNP-based seq #ASHG16	2016-10-22	1429	+0000
+789620705180602368	2016-10-22 00:13:41 +0000	yluo86	"Jin:  3/5 million non-invasive  prenatal testing is done in china.
+ #ashg16"	2016-10-22	1341	+0000
+789620688218906624	2016-10-22 00:13:37 +0000	jgreid	XJ: Estimated ~5M NIPT tests around the world -- ~3M in China, ~1.5M BGI #ASHG16	2016-10-22	1337	+0000
+789620420781703168	2016-10-22 00:12:33 +0000	thatdnaguy	#ASHG16 XJ: Est number of NIPT test worldwide ~5M overall. ~3M in China. 1.5M by BGI.	2016-10-22	1233	+0000
+789620339240165376	2016-10-22 00:12:13 +0000	GeneticsGSA	Jin: Many large-scale genome projects, limited Asian population datasets. #ASHG16	2016-10-22	1213	+0000
+789620215302725632	2016-10-22 00:11:44 +0000	jgreid	XJ: Wher are behind in terms of sequencing samples of Asian ancestry #ASHG16	2016-10-22	1144	+0000
+789620151897522176	2016-10-22 00:11:29 +0000	thatdnaguy	#ASHG16 XJ: Not so many have WGS sequencing. Many more are WES. Chinese 20% of world population. Far less than 20% representation	2016-10-22	1129	+0000
+789620129986322432	2016-10-22 00:11:24 +0000	busseykj	Xin Jin: Discovery & challenges of low pass WGS of  >140K genomes. #ASHG16	2016-10-22	1124	+0000
+789620117164392449	2016-10-22 00:11:21 +0000	jgreid	XJ: All published large-scale projects have limited numbers of samples from Asian (particularly Chinese) populations #ASHG16	2016-10-22	1121	+0000
+789620065318543360	2016-10-22 00:11:08 +0000	avery_ayers	talk on 140k low pass WGS of Chinese people from Xin Jin (BGI) up next #ASHG16 (this is the future)	2016-10-22	1108	+0000
+789620026055667713	2016-10-22 00:10:59 +0000	michaelhoffman	XJ: 1000G projects, Genomics England, ExAC, HLI datasets all have limited Asian populations #ASHG16	2016-10-22	1059	+0000
+789620018401214464	2016-10-22 00:10:57 +0000	thatdnaguy	#ASHG16 XJ: other projects have limited asian representation	2016-10-22	1057	+0000
+789619914101301252	2016-10-22 00:10:32 +0000	shramdas	Xin Jin: Low-pass WGS of over 140000 samples from China. #ashg16	2016-10-22	1032	+0000
+789619898825736192	2016-10-22 00:10:28 +0000	jgreid	XJ: Why are we doing this large-scale project in China? #ASHG16	2016-10-22	1028	+0000
+789619893775704064	2016-10-22 00:10:27 +0000	GeneticsGSA	Jin: Very large dataset from the Chinese population. #ASHG16	2016-10-22	1027	+0000
+789619862473670656	2016-10-22 00:10:20 +0000	thatdnaguy	#ASHG16 XJ: Xin Jin from BGI. Disc and challenges from 140k chinese low pass sequences	2016-10-22	1020	+0000
+789619831297314817	2016-10-22 00:10:12 +0000	michaelhoffman	Now: Xin Jin: Discovery and challenges in low-pass whole genome sequencing of over 140,000 individuals from throughout China #ASHG16	2016-10-22	1012	+0000
+789619811252736001	2016-10-22 00:10:08 +0000	GeneticsGSA	Next up: Xin Jin on insights gained from low pass sequencing of 140,000 genomes. #ASHG16	2016-10-22	1008	+0000
+789619766520647680	2016-10-22 00:09:57 +0000	jgreid	Xin Jin (Chinese Millionome Consortium) on Discovery & challenges in low-pass WGS of over 140k individuals from throughout China. #ASHG16	2016-10-22	957	+0000

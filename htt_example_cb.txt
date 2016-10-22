@@ -1,0 +1,41 @@
+index	ID	Posted at	Screen name	Text	date	time	nano
+0	789515913984827392	2016-10-21 17:17:17 +0000	michaelhoffman	Q: Trans-regulation? CB: Haven't looked at it yet or at Hi-C data but we want to #ASHG16	2016-10-21	171717	+0000
+1	789515913640894464	2016-10-21 17:17:16 +0000	thatdnaguy	#ASHG16 CB: ? Any trans? A - Haven't looked for any trans effects. But interesting for future.	2016-10-21	171716	+0000
+2	789515773861429248	2016-10-21 17:16:43 +0000	thatdnaguy	#ASHG16 CB: ? Do eQTL match the reported GWAS? A - about half the eQTL doesn't affect nearest gene. 10% aff multiple genes.	2016-10-21	171643	+0000
+3	789515656592883712	2016-10-21 17:16:15 +0000	RyanTewhey	C Brown: 76% of CREs validate within an MPRA exp. #ASHG16	2016-10-21	171615	+0000
+4	789515593024098305	2016-10-21 17:16:00 +0000	Magda_Skipper	CB: deep mutiindividual epigenomic profiling expands catalogue of tissue specific CRE #ASHG16	2016-10-21	171600	+0000
+5	789515548212072453	2016-10-21 17:15:49 +0000	thatdnaguy	#ASHG16 CB: ? Overlapped with reg regions (no ac marks)? A - No.	2016-10-21	171549	+0000
+6	789515538158399489	2016-10-21 17:15:47 +0000	joshulux	CB: LD reference panel size needs to scale up with GWAS size to support fine mapping (>1k for 5k GWAS, >10k for 50k GWAS). #ASHG16	2016-10-21	171547	+0000
+7	789515529237049344	2016-10-21 17:15:45 +0000	RyanTewhey	C Brown: Deep chromatin profiling uncovers ~30% more cis-regulatory elements than what is in catalogs.  #ASHG16	2016-10-21	171545	+0000
+8	789515419233116160	2016-10-21 17:15:19 +0000	thatdnaguy	#ASHG16 CB: ? Looked at loci where SNP coding? A - have not looked at coding SNPs that could regulate.	2016-10-21	171519	+0000
+9	789515273061609472	2016-10-21 17:14:44 +0000	thatdnaguy	#ASHG16 CB: ? What abt cred SNPs but dont overlap reg element signal? A - Miss things not marked with our epi pulldowns	2016-10-21	171444	+0000
+10	789515226517352448	2016-10-21 17:14:33 +0000	RaulieSci	CB: Most GWAS SNPs have a nominal association with cis-eQTLs. Colocalization testing is necessary. #ASHG16	2016-10-21	171433	+0000
+11	789515101413924864	2016-10-21 17:14:03 +0000	thatdnaguy	#ASHG16 CB: Work of Minal Caliskan and Julian Segert	2016-10-21	171403	+0000
+12	789515058766229504	2016-10-21 17:13:53 +0000	michaelhoffman	Very nice talk by CB. #ASHG16	2016-10-21	171353	+0000
+13	789514857619922944	2016-10-21 17:13:05 +0000	thatdnaguy	#ASHG16 CB: Allelic imbalance at CREs. 1800 CREs with significant imbalance. 14 derived from lipid GWAS [ nice! ]	2016-10-21	171305	+0000
+14	789514757619404800	2016-10-21 17:12:41 +0000	michaelhoffman	CB: 1804/49253 CREs have significant allelic imbalance at 5% FDR. 14 loci with significant allelic imbalance [cool!!!] #ASHG16	2016-10-21	171241	+0000
+15	789514648470945793	2016-10-21 17:12:15 +0000	thatdnaguy	#ASHG16 CB: Colocalized SNPS in 95% credible sets at 49 loci overlap with cis regulatory elements.	2016-10-21	171215	+0000
+16	789514593538146304	2016-10-21 17:12:02 +0000	michaelhoffman	"CB: Colocalized SNPs in ""95% credible"" set at 49 loci overlap liver cis-regulatory elts #ASHG16"	2016-10-21	171202	+0000
+17	789514459198861312	2016-10-21 17:11:30 +0000	michaelhoffman	CB: Close to saturation. 83% of expressed genes are promoter marks. 32% don't overlap ENCODE DHS sites #ASHG16	2016-10-21	171130	+0000
+18	789514388042424320	2016-10-21 17:11:13 +0000	michaelhoffman	CB: Validated more than 1000 with an in-house massively parallel reporter assay #ASHG16	2016-10-21	171113	+0000
+19	789514310544269313	2016-10-21 17:10:54 +0000	michaelhoffman	CB: Collection of loci with strong evidence of eQTL and lipid association. Filter against 6B ChIP-seq reads for H3K27ac, H3K4me3 #ASHG16	2016-10-21	171054	+0000
+20	789514303703351296	2016-10-21 17:10:53 +0000	thatdnaguy	#ASHG16 CB: 7% of genome marked. 32% don't overlap with encode DHS sites.	2016-10-21	171053	+0000
+21	789514003881955328	2016-10-21 17:09:41 +0000	thatdnaguy	#ASHG16 CB: Most eQTL GWAS overlaps are spurious. Colocalization of association signals is key.	2016-10-21	170941	+0000
+22	789513850315952130	2016-10-21 17:09:05 +0000	thatdnaguy	#ASHG16 CB: Many hepatocyte specific eQTLs.	2016-10-21	170905	+0000
+23	789513777154625536	2016-10-21 17:08:47 +0000	michaelhoffman	CB: Multi-cohort analysis improves discovery power. Many induced hepatocyte-specific eQTLs #ASHG16	2016-10-21	170847	+0000
+24	789513720032440320	2016-10-21 17:08:33 +0000	thatdnaguy	#ASHG16 CB: Look for co-localizing eQTLs. Look for overlapping cis regulatory elements. And then check for genotype variation.	2016-10-21	170833	+0000
+25	789513702051491840	2016-10-21 17:08:29 +0000	michaelhoffman	CB: GWAS loci → colocalized with eQTL → look for variants overlapping cis-regulatory elements #ASHG16	2016-10-21	170829	+0000
+26	789513599190302720	2016-10-21 17:08:05 +0000	michaelhoffman	CB: Global Lipid Genetics Consortium data #ASHG16	2016-10-21	170805	+0000
+27	789513562569838596	2016-10-21 17:07:56 +0000	thatdnaguy	#ASHG16 CB: Global lipid consortium. 300+ 1g liver biopsies. Epi profiling.	2016-10-21	170756	+0000
+28	789513255538438144	2016-10-21 17:06:43 +0000	michaelhoffman	CB: Broadly eQTL SNPs are enriched in promoters+enhancers. Greater when epigenomic dataset derived from matched tissue. Important #ASHG16	2016-10-21	170643	+0000
+29	789513069210632193	2016-10-21 17:05:58 +0000	michaelhoffman	CB: GTEx identified eQTLs in lotsa cell types. As discovery cohort size increases, eQTLs are increasingly tissue-specific #ASHG16	2016-10-21	170558	+0000
+30	789512956304175104	2016-10-21 17:05:31 +0000	michaelhoffman	CB: Can we combine GWAS, eQTL and epigenomic profiles to make discoveries? #ASHG16	2016-10-21	170531	+0000
+31	789512898808729600	2016-10-21 17:05:18 +0000	michaelhoffman	CB: Filter LD proxies for those that overlap predicted cis-regulatory elements. Some show allele-specific activity themselves #ASHG16	2016-10-21	170518	+0000
+32	789512677013848064	2016-10-21 17:04:25 +0000	thatdnaguy	#ASHG16 CB: Using RNA-Seq you can directly count the number of transcripts with the expected allele.	2016-10-21	170425	+0000
+33	789512660077260800	2016-10-21 17:04:21 +0000	Genomes2People	For anyone looking for more info, here's website: https://t.co/xfoUIMn3Wj and papers: https://t.co/fBmCBPidb2… https://t.co/0vwDwdtjtS	2016-10-21	170421	+0000
+34	789512549528023040	2016-10-21 17:03:54 +0000	michaelhoffman	CB explaining eQTLs #ASHG16	2016-10-21	170354	+0000
+35	789512456678678528	2016-10-21 17:03:32 +0000	michaelhoffman	CB: Linkage disequilibrium obscures causal variants #ASHG16	2016-10-21	170332	+0000
+36	789512411686383616	2016-10-21 17:03:22 +0000	michaelhoffman	CB: Regulatory elements act across large distances, making target gene identification difficult #ASHG16	2016-10-21	170322	+0000
+37	789512358439690241	2016-10-21 17:03:09 +0000	michaelhoffman	CB: Hypothesis: most GWAS variants function by modifying gene expression #ASHG16	2016-10-21	170309	+0000
+38	789512280668975104	2016-10-21 17:02:50 +0000	michaelhoffman	CB: One of most profound observations from GWAS: vast majority of h2 driven by noncoding variation #ASHG16	2016-10-21	170250	+0000
+39	789512179741446144	2016-10-21 17:02:26 +0000	thatdnaguy	#ASHG16 CB: Christopher Brown - epigenetic fine mapping of cardiovascular disease loci in the liver	2016-10-21	170226	+0000
